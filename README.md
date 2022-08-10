@@ -32,13 +32,13 @@ senderismo⛰, una buena película🎬 y una buena carne asada🍖 con las perso
 
 <p align="center"> 
 <a target="_blank" href="https://www.linkedin.com/in/emmanuel-a-837349123/">
-  <img alt="Emmanuel_Arenas" width="30px" src="https://www.svgrepo.com/show/157006/linkedin.svg"/>
+ <code><img alt="Emmanuel_Arenas" width="30px" src="https://www.svgrepo.com/show/157006/linkedin.svg"/></code>
 </a>
 <a target="_blank" href="https://www.instagram.com/emmanuel_r0bson/">
-  <img alt="emmanuel_r0bson" width="30px" src="https://www.svgrepo.com/show/13639/instagram.svg"/>
+ <code> <img alt="emmanuel_r0bson" width="30px" src="https://www.svgrepo.com/show/13639/instagram.svg"/></code>
 </a>
 <a target="_blank" href="https://twitter.com/EmmanuelR0bson">
-  <img alt="@EmmanuelR0bson" width="30px" src="https://www.svgrepo.com/show/20626/twitter.svg"/>
+  <code><img alt="@EmmanuelR0bson" width="30px" src="https://www.svgrepo.com/show/20626/twitter.svg"/></code>
 </a>
 </p>
 
