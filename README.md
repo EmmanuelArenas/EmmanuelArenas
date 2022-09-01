@@ -41,7 +41,7 @@ you imagine is very satisfying for me. Socially, I like to spend time with
 my loved ones, whether traveling, eating, or watching a movie.
 ```
 
-### Proyects
+### Projects
 
 | **project-pokemon**                                 | [WebSite]()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -54,12 +54,6 @@ my loved ones, whether traveling, eating, or watching a movie.
 
 ### **Connect with me!**
 
-<spam align='right'>
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emmanuelarenas-fullstackdeveloper/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emmanuel_r0bson/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EmmanuelR0bson)
-</spam>
-
-<spam align='right'>
 
 ![Profile views](https://gpvc.arturio.dev/emmanuelarenas)
-</spam>
