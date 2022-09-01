@@ -2,8 +2,8 @@
 
 ```text
 Always returns to its origins. I am a computer systems engineer and life in this year 2022
-presented me with the opportunity to return to the path of the programmer and after 5 arduous
-months studying day and night now I can compete for a position as a full stack developer.
+presented me with the opportunity to return to the path of the programmer after 5 arduous
+months of studying day and night now I can compete for a position as a full stack developer.
 I have been working on personal projects to adapt, improve and reinforce the skills I have
 acquired throughout my working life and this professional break.
 ```
@@ -38,41 +38,30 @@ More about me 👨‍💻--> Outside of programming, something interesting to sa
 I have played soccer since my childhood and it is a taste that I still have,
 I also adopted a taste for carpentry, creating and giving physical shape to something
 you imagine is very satisfying for me. Socially, I like to spend time with
-my loved ones, whether traveling, eating or watching a movie.
+my loved ones, whether traveling, eating, or watching a movie.
 ```
 
-<h3 align="center">Connect with me!</h3>
+### Proyects
 
-<p align="center"> 
-<a target="_blank" href="https://www.linkedin.com/in/emmanuelarenas-fullstackdeveloper/">
- <img alt="Emmanuel_Arenas" width="30px" src="https://www.svgrepo.com/show/204944/linkedin.svg"/></
-</a> 
-<a target="_blank" href="https://wa.me/+529221581113">
-<img  width="30px"src="https://www.svgrepo.com/show/306966/whatsapp.svg" alt="whatsapp"/>
-</a>
-  <a target="_blank" href="https://www.instagram.com/emmanuel_r0bson/">
-  <img alt="emmanuel_r0bson" width="30px" src="https://www.svgrepo.com/show/30539/instagram-logo.svg"/>
-</a>
-<a target="_blank" href="https://twitter.com/EmmanuelR0bson">
-  <img alt="@EmmanuelR0bson" width="30px" src="https://www.svgrepo.com/show/137277/twitter.svg"/>
-</a>
-</p>
+| **project-pokemon**                                 | [WebSite]()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img width ="800" src="./asset/pre.gif" alt="img"/> | The general idea was to create an application where you can see different pokemons by consulting an external API and from there you can: Search, Filter, order, and create new Pokemons. [More details of the project.](https://github.com/EmmanuelArenas/project-pokemon) **Acquired knowledge ->** Program routes, filters, validations, promises, pagination, state management, modularization, connecting the database with the backend and the backend with the frontend. **Technologies ->** _javascript_, _html_, _react_, _redux_, _css_, _nodejs_, _express_, _sequelize_, _postgresql_ |
 
-<!--
-**EmmanuelArenas/EmmanuelArenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emmanuelarenas)
 
-<a target="_blank" href="https://www.freecodecamp.org/espanol/EmmanuelRobson">
-  <img alt="EmmanuelR0bson" width="30px" src="https://www.svgrepo.com/show/330475/freecodecamp.svg"/>
-</a>
+<h3 align="right">
 
-Aquí hay algunas ideas para comenzar:
+**Connect with me!**
 
-- 🔭 Actualmente estoy trabajando en...
-- 🌱 Actualmente estoy aprendiendo...
-- 👯 Busco colaborar en...
-- 🤔 Busco ayuda con...
-- 💬 Pregúntame sobre...
-- 📫 Cómo contactarme: ...
-- 😄 Pronombres: ...
-- ⚡ Dato curioso: ...
--->
+</h3>
+<spam align="right">
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emmanuelarenas-fullstackdeveloper/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emmanuel_r0bson/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EmmanuelR0bson)
+
+</spam>
+
+<spam align="right">
+
+![Profile views](https://gpvc.arturio.dev/emmanuelarenas)
+
+</spam>
