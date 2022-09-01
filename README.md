@@ -45,23 +45,21 @@ my loved ones, whether traveling, eating, or watching a movie.
 
 | **project-pokemon**                                 | [WebSite]()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img width ="800" src="./asset/pre.gif" alt="img"/> | The general idea was to create an application where you can see different pokemons by consulting an external API and from there you can: Search, Filter, order, and create new Pokemons. [More details of the project.](https://github.com/EmmanuelArenas/project-pokemon) **Acquired knowledge ->** Program routes, filters, validations, promises, pagination, state management, modularization, connecting the database with the backend and the backend with the frontend. **Technologies ->** _javascript_, _html_, _react_, _redux_, _css_, _nodejs_, _express_, _sequelize_, _postgresql_ |
+| <img width ="400" src="./asset/pre.gif" alt="img"/> | The general idea was to create an application where you can see different pokemons by consulting an external API and from there you can: Search, Filter, order, and create new Pokemons. [More details of the project.](https://github.com/EmmanuelArenas/project-pokemon) **Acquired knowledge ->** Program routes, filters, validations, promises, pagination, state management, modularization, connecting the database with the backend and the backend with the frontend. **Technologies ->** _javascript_, _html_, _react_, _redux_, _css_, _nodejs_, _express_, _sequelize_, _postgresql_ |
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emmanuelarenas)
+----
 
-<h3 align="right">
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emmanuelarenas&theme=dracula&hide_border=true)
 
-**Connect with me!**
 
-</h3>
-<spam align="right">
+### **Connect with me!**
+
+<spam align='right'>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emmanuelarenas-fullstackdeveloper/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emmanuel_r0bson/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EmmanuelR0bson)
-
 </spam>
 
-<spam align="right">
+<spam align='right'>
 
 ![Profile views](https://gpvc.arturio.dev/emmanuelarenas)
-
 </spam>
