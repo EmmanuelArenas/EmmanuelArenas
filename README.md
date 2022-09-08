@@ -51,9 +51,11 @@ my loved ones, whether traveling, eating, or watching a movie.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emmanuelarenas&theme=dracula&hide_border=true)
 
+### **Certifications**
+[<img src='https://www.svgrepo.com/show/306072/freecodecamp.svg' alt='frecodecamp' height='40'>](https://www.freecodecamp.org/EmmanuelRobson)
 
 ### **Connect with me!**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emmanuelarenas-fullstackdeveloper/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emmanuel_r0bson/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EmmanuelR0bson)
+[<img src='https://www.svgrepo.com/show/75820/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emmanuelarenas-fullstackdeveloper/) [<img src='https://www.svgrepo.com/show/157806/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emmanuel_r0bson/) [<img src='https://www.svgrepo.com/show/349537/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EmmanuelR0bson)
 
 ![Profile views](https://gpvc.arturio.dev/emmanuelarenas)
