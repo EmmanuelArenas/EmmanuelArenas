@@ -49,7 +49,7 @@ my loved ones, whether traveling, eating, or watching a movie.
 
 ----
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emmanuelarenas&theme=dracula&hide_border=true)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emmanuelarenas&theme=dracula&hide_border=true) -->
 
 ### **Certifications**
 <img  height="50" src='https://www.svgrepo.com/show/306072/freecodecamp.svg' alt='frecodecamp' > [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/EmmanuelRobson) | [Responsive Web Design](https://www.freecodecamp.org/EmmanuelRobson)
