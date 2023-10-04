@@ -1,11 +1,9 @@
 ## **¡¡Hello World...!!**
 
 ```text
-Always returns to its origins. I am a computer systems engineer and life in this year 2022
-presented me with the opportunity to return to the path of the programmer after 5 arduous
-months of studying day and night now I can compete for a position as a full stack developer.
-I have been working on personal projects to adapt, improve and reinforce the skills I have
-acquired throughout my working life and this professional break.
+It is a pleasure to greet you. Let me tell you a little about myself. Throughout my professional career, life has given me the opportunity to explore different paths, but what I am passionate about is the world of programming. Currently, I work on freelance projects to maintain and improve my technical skills, and through this repository, I share my progress in this exciting journey of programming.
+
+Thank you for visiting my profile. Here you will find a variety of projects I have worked on, each representing a step towards perfecting my skills as a programmer. Feel free to explore my projects and get in touch if you have any questions or suggestions. I hope you find inspiration or usefulness in my work for your own journey in the world of programming.
 ```
 
 <img align='right' src="https://user-images.githubusercontent.com/15266097/183833511-8b582f64-d0e2-4b9c-ba33-cb8be8e8fb6a.png" width="230">
@@ -27,7 +25,7 @@ const emmanuel = {
     dataBase: ["postgreSQL"],
     tools: ["git", "gitHub", "vsCode", "Slack", "figma"],
     methodologies: ["Scrum", "5S", "Prototipado"],
-    operatingSystem: ["Windows", "KaliLinux"],
+    operatingSystem: ["Windows", "KaliLinux","MacOS"],
     otherLanguages: [" python "],
   },
 };
@@ -56,6 +54,5 @@ my loved ones, whether traveling, eating, or watching a movie.
 
 ### **Connect with me!**
 
-[<img src='https://www.svgrepo.com/show/75820/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emmanuelarenas-fullstackdeveloper/) [<img src='https://www.svgrepo.com/show/157806/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emmanuel_r0bson/) [<img src='https://www.svgrepo.com/show/349537/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EmmanuelR0bson)
+[<img src='https://www.svgrepo.com/show/75820/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emmanuelarenas-front-end-developer) [<img src='https://www.svgrepo.com/show/157806/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emmanuel_r0bson/) [<img src='https://www.svgrepo.com/show/349537/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EmmanuelR0bson)
 
-![Profile views](https://gpvc.arturio.dev/emmanuelarenas)
