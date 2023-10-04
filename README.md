@@ -1,9 +1,18 @@
 ## **¡¡Hello World...!!**
 
 ```text
-It is a pleasure to greet you. Let me tell you a little about myself. Throughout my professional career, life has given me the opportunity to explore different paths, but what I am passionate about is the world of programming. Currently, I work on freelance projects to maintain and improve my technical skills, and through this repository, I share my progress in this exciting journey of programming.
+It is a pleasure to greet you. Let me tell you a little about myself.
+Throughout my professional career, life has given me the opportunity
+to explore different paths, but what I am passionate about is the world
+of programming. Currently, I work on freelance projects to maintain
+and improve my technical skills, and through this repository,
+I share my progress in this exciting journey of programming.
 
-Thank you for visiting my profile. Here you will find a variety of projects I have worked on, each representing a step towards perfecting my skills as a programmer. Feel free to explore my projects and get in touch if you have any questions or suggestions. I hope you find inspiration or usefulness in my work for your own journey in the world of programming.
+Thank you for visiting my profile. Here you will find a variety of projects
+I have worked on, each representing a step towards perfecting my skills
+as a programmer. Feel free to explore my projects and get in touch if
+you have any questions or suggestions. I hope you find inspiration or
+usefulness in my work for your own journey in the world of programming.
 ```
 
 <img align='right' src="https://user-images.githubusercontent.com/15266097/183833511-8b582f64-d0e2-4b9c-ba33-cb8be8e8fb6a.png" width="230">
